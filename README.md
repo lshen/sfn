@@ -1,2 +1,2 @@
-# sefn
-Structural enriched functional network with simplex regression
+# sfn
+Structural enriched functional network with simplex regression and graphnet constraint
