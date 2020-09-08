@@ -72,14 +72,6 @@ for iter = 1:NIter
 end
 
 function [x ft] = EProjSimplex(v)
-
-%
-% Problem
-%
-%  min  1/2 || x - v||^2
-%  s.t. x>=0, 1'x=1
-%
-
 ft=1;
 n = length(v);
 
